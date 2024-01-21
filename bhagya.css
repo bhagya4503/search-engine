@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    background-image: url(create\ kinfly.jpg);
+    height: 250px;
+    width: 50px;
+    background-size: cover;
+}
+    
+ img{
+    padding: 1px;
+    height: 18.2rem;
+    width: 20.2rem;
+}
+
+
+.box{
+    margin: 5rem;
+    box-sizing: border-box;
+    height: 19rem;
+    width: 21rem;
+    border: 6px solid rgb(30, 34, 40);
+    border-radius: 8px;
+    background-color: rgb(30, 34, 40);
+   
+}
+
+/* p{
+    display: flex;
+    height: 50px;
+    width: 45rem;
+    padding-left: 28rem;
+     text-align: center;
+    margin: 0px;
+   
+} */
+p{
+    color: white;
+    /* background-color: white; */
+    /* height: 40px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
+     width: 50rem;
+     margin-bottom: 25px;
+     display: flex;
+     height: 50px;
+     width: 45rem;
+     padding-left: 28rem;
+      text-align: center;
+     margin: 0px;
+
+}
+
+.msg{
+
+        background-image: url("singin.jpg");
+        height: 350px;
+        background-size: cover;
+        display: flex;
+        justify-content: center;
+        align-items: flex-end;
+}
+
+.button{
+     align-items: center;
+     justify-content: center;
+     padding: 20px;
+     padding-left: 28rem;
+}
